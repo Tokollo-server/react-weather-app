@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import { Routes, Route } from 'react-router-dom';
+
 
 
 const API_KEY = "408bc4e1f6ec488098a111416250906";
